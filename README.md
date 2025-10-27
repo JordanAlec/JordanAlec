@@ -7,8 +7,6 @@
 
 - Senior Software Developer at Zen Internet 👷‍♂️
 - Contributer of all things private! (Don't judge my public stats!) 🤦‍♂️
-- Lover of Event Driven Architecture, Microservices and Serverless ☁
-- Loves Playing Guitar / Bass 🎸
 
 <h2>Tech Stack 👨‍💻</h2>
 
@@ -22,5 +20,4 @@
 
 <h2>Stats 🌠</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordanAlec&show_icons=true&theme=dark) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JordanAlec&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
