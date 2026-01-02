@@ -1,23 +1,56 @@
-<h1 align="center">🎸 Welcome 🎸</h1>
+<h1 align="center">🎸 Hey, I'm Jordan 🎹</h1>
+<h3 align="center">Senior Software Developer • Builder of simple, scalable systems</h3>
 
-![](https://komarev.com/ghpvc/?username=jordanalec&color=3F9E9E&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jordanalec&color=3F9E9E&label=🍨+Nice+to+meet+you!+Visitor+No." />
+</p>
 
-<h2>About me 🙋‍♂️</h2>
+---
 
-- Senior Software Developer at Zen Internet 👷‍♂️
-- Contributer of all things private! (Don't judge my public stats!) 🤦‍♂️
+## 🙋‍♂️ About Me
 
-<h2>Tech Stack 👨‍💻</h2>
+- 👷‍♂️ **Senior Software Developer** at **Zen Internet**
+- 🧠 Believer in **simple solutions > clever solutions** (if your junior can't read it....)
+- 🔒 Most of my meaningful work lives in **private repos** (sadly invisible, highly impactful - to me and some freelance bits)
+- 🎹 Music nerd with an unhealthy addiction to all things Jazz
 
-<p>Whatever works! But generally...</p>
+---
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+## 🔭 What I’m Currently Focused On
 
-<h2>Stats 🌠</h2>
+- Designing **maintainable .NET services** at scale  
+- Building **modern web apps** with Next.js  
+- Cloud-native architecture on **AWS**
+- Containers, orchestration & reliability (**Docker / Kubernetes**)
+- Improving developer experience and system observability
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JordanAlec&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+---
+
+## 🛠 Tech Stack (Tools I Actually Enjoy Using)
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+> _“Use the right tool, not the trendy one....Although you can window shop....”_
+
+---
+
+## 🌠 GitHub Activity
+
+<p align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=JordanAlec&theme=crt" />
+</p>
+
+> ⚠️ Public stats don’t tell the full story — most production code is rather personal or freelance.
+
+---
+
+## 🤝 Let’s Connect
+
+- 💬 Happy to chat about backend systems, cloud architecture, or clean code
+- 🤘 Bonus points if you also want to chat music!
