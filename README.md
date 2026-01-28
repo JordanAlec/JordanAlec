@@ -13,6 +13,7 @@
 - 🧠 Believer in **simple solutions > clever solutions** (if your junior can't read it....)
 - 🔒 Most of my meaningful work lives in **private repos** (sadly invisible, highly impactful - to me and some freelance bits)
 - 🎹 Music nerd with an unhealthy addiction to all things Jazz
+- 😵 Actively confused about AI: Morally questionable, enfringes on tons of copyright material and more, but I actively use it for brainstorming, boring things and explanations.
 
 ---
 
@@ -42,12 +43,9 @@
 
 ## 🌠 GitHub Activity
 
-<p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=JordanAlec&theme=crt" />
-</p>
+> ⚠️ Public stats don’t tell the full story — most code is for private freelance or contributions to private repositories. Some public stuff I've done below
 
-> ⚠️ Public stats don’t tell the full story — most production code is rather personal or freelance.
-
+- [HexTile -  lets you control your HX Stomp foot switches when you can't get near them!](https://github.com/JordanAlec/hex-tile)
 ---
 
 ## 🤝 Let’s Connect
