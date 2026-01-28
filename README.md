@@ -46,6 +46,8 @@
 > ⚠️ Public stats don’t tell the full story — most code is for private freelance or contributions to private repositories. Some public stuff I've done below
 
 - [HexTile -  lets you control your HX Stomp foot switches when you can't get near them!](https://github.com/JordanAlec/hex-tile)
+- [MIDI Captain Config -  Config files for Paint Audio's Midi Captain](https://github.com/JordanAlec/midi-captain-config)
+
 ---
 
 ## 🤝 Let’s Connect
