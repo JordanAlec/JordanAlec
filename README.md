@@ -24,6 +24,7 @@
 - Cloud-native architecture on **AWS**
 - Containers, orchestration & reliability (**Docker / Kubernetes**)
 - Improving developer experience and system observability
+- Projects are a mix of personal side-projects (with a music focus) and small freelance stuff (SMBs - Small / Medium Business)
 
 ---
 
@@ -43,11 +44,11 @@
 
 ## 🌠 GitHub Activity
 
-> ⚠️ Public stats don’t tell the full story — most code is for private freelance or contributions to private repositories. Some public stuff I've done below
+> ⚠️ Public stats don’t tell the full story — most code is for private freelance or contributions to private repositories. Most of my day to day development is for the company I work for and outside of GitHub. Some public stuff I've done below
 
 - [HexTile -  lets you control your HX Stomp foot switches when you can't get near them!](https://github.com/JordanAlec/hex-tile)
 - [MIDI Captain Config -  Config files for Paint Audio's Midi Captain](https://github.com/JordanAlec/midi-captain-config)
-
+- [Developer Site - GitHub Pages](https://github.com/JordanAlec/jordanalec.github.io)
 ---
 
 ## 🤝 Let’s Connect
