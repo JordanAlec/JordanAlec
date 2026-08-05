@@ -1,5 +1,5 @@
 <h1 align="center">🎸 Hey, I'm Jordan 🎹</h1>
-<h3 align="center">Senior Software Developer • Builder of simple, scalable systems</h3>
+<h3 align="center">Lead Developer • Builder of simple, scalable systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jordanalec&color=3F9E9E&label=🍨+Nice+to+meet+you!+Visitor+No." />
@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👷‍♂️ **Senior Software Developer** at **Zen Internet**
+- 👷‍♂️ **Lead Developer** at **Zen Internet**
 - 🧠 Believer in **simple solutions > clever solutions** (if your junior can't read it....)
 - 🔒 Most of my meaningful work lives in **private repos** (sadly invisible, highly impactful - to me and some freelance bits)
 - 🎹 Music nerd with an unhealthy addiction to all things Jazz
@@ -48,6 +48,7 @@
 
 - [HexTile -  lets you control your HX Stomp foot switches when you can't get near them!](https://github.com/JordanAlec/hex-tile)
 - [MIDI Captain Config -  Config files for Paint Audio's Midi Captain](https://github.com/JordanAlec/midi-captain-config)
+- [DTK - Declarative TypeScript runbooks for orchestrating multi-step API workflows.](https://github.com/JordanAlec/dtk)
 - [Developer Site - GitHub Pages](https://github.com/JordanAlec/jordanalec.github.io)
 ---
 
