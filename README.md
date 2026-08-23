@@ -46,9 +46,10 @@
 
 > ⚠️ Public stats don’t tell the full story — most code is for private freelance or contributions to private repositories. Most of my day to day development is for the company I work for and outside of GitHub. Some public stuff I've done below
 
+- [SoundPrint - Create a musical profile, list your highlights, share what you do](https://github.com/JordanAlec/soundprint)
+- [DTK - Declarative TypeScript runbooks for orchestrating multi-step API workflows.](https://github.com/JordanAlec/dtk)
 - [HexTile -  lets you control your HX Stomp foot switches when you can't get near them!](https://github.com/JordanAlec/hex-tile)
 - [MIDI Captain Config -  Config files for Paint Audio's Midi Captain](https://github.com/JordanAlec/midi-captain-config)
-- [DTK - Declarative TypeScript runbooks for orchestrating multi-step API workflows.](https://github.com/JordanAlec/dtk)
 - [Developer Site - GitHub Pages](https://github.com/JordanAlec/jordanalec.github.io)
 ---
 
